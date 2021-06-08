@@ -1,4 +1,4 @@
-#  Projeto IHC
+#  Projeto IHC - Turma A
 Realidade Virtual - Montagem Porta de Avião
 
 ## Glitch
